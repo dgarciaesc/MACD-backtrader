@@ -1,2 +1,7 @@
-# MACD-backtracker
-MACD backtracker ñapa for Bitcoin
+
+
+
+
+
+MACD bakctrader for bitcoin using backtrader Library 
+
